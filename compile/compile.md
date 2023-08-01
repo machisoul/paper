@@ -68,8 +68,11 @@ add_library(<out file> SHARED <source files>...)
 target_link_libraries(<executable file> <libraries>...)
 ```
 
+### checkout library software
+```
+nm ## checkout the functions list.
+
+readelf ## show the link view.
+```
 
 
-
-
-### 
